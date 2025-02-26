@@ -1,0 +1,11 @@
+huggingface_hub
+gradio
+flask
+requests
+flask-cors
+python-dotenv
+pdfplumber 
+faiss-cpu 
+numpy
+gradio_client
+flask-cors
